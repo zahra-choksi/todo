@@ -65,8 +65,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 
     ```bash
    flutter run
-### Running Tests
-To run unit tests, use the following command:
 
-   ```bash
-   flutter test
